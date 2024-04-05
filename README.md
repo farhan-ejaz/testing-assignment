@@ -1,9 +1,14 @@
 
 # Testing Assignment: Team 2 M.Tech 2023 
 ----------------------------------------------------
-  
+
+A consolidated report is available [here](https://farhan-ejaz.github.io/testing-assignment/) for your assessment without need to compile the code
+
+
+-----------------
+# How to run project  
      
-# Code Coverage Report
+## Code Coverage Report
 --------
  
  To build this project you will need Maven 3. You can get it at:
@@ -24,9 +29,11 @@
      mvn site
 
 
-The eclEmma Jacoco report is available in the /target/site/jacoco folder. Click on index.html.      
+The eclEmma Jacoco report will be available in the /target/site/jacoco folder. Click on index.html.  
 
-# Mutation Test Report
+    
+---------
+## Mutation Test Report
 ---------
 
 We used [PiTest](https://pitest.org/) as a mutation tool which was easier to use via Maven. 
@@ -35,4 +42,6 @@ We used [PiTest](https://pitest.org/) as a mutation tool which was easier to use
  
      mvn org.pitest:pitest-maven:mutationCoverage
 
- The mutation report is available in the /target/pit-reports folder. Click on index.html.
+ The mutation report will available in the /target/pit-reports folder. Click on index.html.
+ 
+ 
