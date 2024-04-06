@@ -1,4 +1,7 @@
 # FUNCTION: EDIT TASK
+
+[<< Back](index.md)
+
 ------------------------
 
 
@@ -49,3 +52,5 @@
 
 	Message: "Invalid task index." should be displayed
 ----------------
+
+[<< Back](index.md)

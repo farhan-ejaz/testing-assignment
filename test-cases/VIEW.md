@@ -1,4 +1,7 @@
 # FUNCTION: VIEW TASK
+
+[<< Back](index.md)
+
 ------------------------
 
 
@@ -26,3 +29,5 @@
 
 	Message: "No tasks found." is displayed.
 ----------------
+
+[<< Back](index.md)
